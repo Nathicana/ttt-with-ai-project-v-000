@@ -7,10 +7,3 @@ def initialize(token)
 end
 
 end
-
-
-class Human  < Player
-
-
-
-end
