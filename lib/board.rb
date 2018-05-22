@@ -4,10 +4,11 @@ attr_accessor :cells
 
 def cells
 cells = []
-
 end
 
-
+def reset!
+  cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+end
 
 def display
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
