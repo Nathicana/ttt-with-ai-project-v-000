@@ -10,7 +10,7 @@ def reset!
 @cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
-def initialize
+def initialize()
   reset!
 
 end
