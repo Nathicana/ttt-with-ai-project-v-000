@@ -1,6 +1,6 @@
 class Board
 
-attr_writer :cells
+attr_accessor :cells
 
 
 def cells
