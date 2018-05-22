@@ -6,9 +6,14 @@ def cells
 cells = []
 end
 
-def reset!
+def initialize(cells)
   cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  @cells = cells
+end
+
+def reset!
+
+  cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 end
 
 
