@@ -1,7 +1,7 @@
 class Board
 
 
-def cells
+def initialize
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
