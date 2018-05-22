@@ -11,7 +11,7 @@ def reset!
 end
 
 def initialize
-  @cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  reset!
 
 end
 
