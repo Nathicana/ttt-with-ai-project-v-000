@@ -1,11 +1,8 @@
 class Board
 
-  attr_accessor :board
-
-
-
-def initialize(board)
-  @board = board
+  
+def cells
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
 
