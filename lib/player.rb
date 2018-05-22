@@ -6,7 +6,9 @@ def initialize(token)
   @token = token
 end
 
+end
 
 
+class Human
 
 end
