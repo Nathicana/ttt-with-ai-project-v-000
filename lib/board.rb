@@ -1,9 +1,10 @@
 class Board
 
+@@all = []
 
 def cells
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
+@@all << board
 end
 
 
