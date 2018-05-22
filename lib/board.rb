@@ -4,7 +4,7 @@ attr_accessor :cells
 
 
 def cells
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 end
 
