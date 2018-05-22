@@ -13,4 +13,3 @@ class Game
       [6,4,2]
     ]
 end
-end
