@@ -9,6 +9,8 @@ end
 end
 
 
-class Human
+class Human  < Player
+
+  
 
 end
