@@ -6,10 +6,8 @@ def cells
 cells = []
 end
 
-
-
 def reset!
-cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+@cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
 
