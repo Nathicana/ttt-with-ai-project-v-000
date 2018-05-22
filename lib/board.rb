@@ -12,7 +12,6 @@ end
 
 def initialize()
   reset!
-
 end
 
 def display
