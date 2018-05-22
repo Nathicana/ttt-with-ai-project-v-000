@@ -7,7 +7,7 @@ def cells
 end
 
 def reset!
-@cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+@cells = [9, " "]
 end
 
 def initialize()
