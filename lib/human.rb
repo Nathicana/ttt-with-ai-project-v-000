@@ -2,7 +2,7 @@ module Players
   class Human < Player
 
 
-    def move 
+    def move
        puts "Please enter 1-9"
        gets.strip
     end
