@@ -7,6 +7,7 @@ def cells
 end
 
 def reset!
+  @cells = cells
 @cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
