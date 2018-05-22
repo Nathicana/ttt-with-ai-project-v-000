@@ -26,4 +26,8 @@ def full?
   cells.all?{|token| token == "X" || token == "O"}
 end
 
+def turn_count
+    cells.count{|token| token == "X" || token == "O"}
+  end
+
 end
