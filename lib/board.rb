@@ -6,9 +6,7 @@ def cells
 cells = []
 end
 
-def initialize(cells)
-  cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-end
+
 
 def reset!
 
