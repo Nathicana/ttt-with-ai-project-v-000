@@ -7,13 +7,12 @@ def cells
 end
 
 def reset!
-
 @cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-@cells << cells
 end
 
 def initialize
-  self.reset!
+  @cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 end
 
 end
