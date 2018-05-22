@@ -22,5 +22,8 @@ def position(input)
   cells[input.to_i-1]
   end
 
+def full?
+  cells.all?{|token| token == "X" || token == "O"}
+end
 
 end
